@@ -1,5 +1,27 @@
 {
   "version": 1,
   "updated": "2024-12-28",
-  "relays": []
+  "relays": [
+    {
+      "name": "example-relay-1",
+      "pubkey": "0000000000000000000000000000000000000000000000000000000000000001",
+      "address": "1.2.3.4:9001",
+      "roles": ["entry", "middle", "exit"],
+      "operator": "example"
+    },
+    {
+      "name": "example-relay-2",
+      "pubkey": "0000000000000000000000000000000000000000000000000000000000000002",
+      "address": "5.6.7.8:9001",
+      "roles": ["entry", "middle"],
+      "operator": "example"
+    },
+    {
+      "name": "example-relay-3",
+      "pubkey": "0000000000000000000000000000000000000000000000000000000000000003",
+      "address": "9.10.11.12:9001",
+      "roles": ["middle", "exit"],
+      "operator": "example"
+    }
+  ]
 }
