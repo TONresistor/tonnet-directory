@@ -114,4 +114,6 @@ If you stop running your relay, please submit a PR to remove it from the list.
 
 ## Questions?
 
-Open an issue at https://github.com/TONresistor/tonnet-directory/issues
+- GitHub Issues: https://github.com/TONresistor/tonnet-directory/issues
+- Telegram Channel: https://t.me/ResistanceTools
+- Direct Contact: https://t.me/zkproof
