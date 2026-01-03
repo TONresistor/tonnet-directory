@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updated": "2025-12-28",
+  "version": 2,
+  "updated": "2026-01-03",
   "relays": [
     {
       "name": "relayer1",
@@ -25,6 +25,12 @@
       "pubkey": "7e851a4ff82f1eed984a46b08f897a993c5e06d5e12df8ffdbe043fa4f411ca4",
       "address": "80.78.25.177:9001",
       "roles": ["entry", "middle", "exit"]
+    },
+    {
+      "name": "relayer5",
+      "pubkey": "c9b7e6e0159a821c3377cb584b88be2522066e6ae5feaa0fac1a73b801703959",
+      "address": "46.62.171.242:9001",
+      "roles": ["entry", "middle"]
     }
   ]
 }
